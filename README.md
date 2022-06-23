@@ -1,6 +1,6 @@
 # rn-balloon
 
-![preview](https://raw.githubusercontent.com/TranTuan520/rn-balloon/dev/src/Images/rnballoon.png)
+![preview](https://github.com/TranTuan520/rn-simple-balloon/blob/dev/src/Images/rnballoon.png)
 
 ## Install
 
