@@ -1,11 +1,19 @@
-# rn-balloon
+# rn-simple-balloon
 
 ![preview](https://github.com/TranTuan520/rn-simple-balloon/blob/dev/src/Images/rnballoon.png)
 
 ## Install
 
+from yarn
+
 ```
-yarn add rn-simple-balloon
+add rn-simple-balloon
+```
+
+from npm
+
+```
+npm i rn-simple-balloon
 ```
 
 ## Usage
