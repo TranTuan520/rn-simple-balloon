@@ -7,7 +7,7 @@
 from yarn
 
 ```
-add rn-simple-balloon
+yarn add rn-simple-balloon
 ```
 
 from npm
