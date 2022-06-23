@@ -1,0 +1,25 @@
+{
+  "name": "rn-balloon",
+  "version": "1.0.0",
+  "description": "simple balloon component from TuanChan with love :3",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "balloon",
+    "sticker"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "typescript": "*"
+  },
+  "author": "TuanChan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TranTuan520/rn-balloon"
+  }
+}
