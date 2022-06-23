@@ -1,6 +1,6 @@
 {
   "name": "rn-simple-balloon",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "simple balloon component from TuanChan with love :3",
   "main": "index.tsx",
   "scripts": {
